@@ -13,5 +13,5 @@
 
 # This is H1 text
 
-![Python tutorial]([/learn/azure-devops/shared/media/mara.png](https://dev.to/aws-builders/python-101-2188))
+[python link](https://dev.to/aws-builders/python-101-2188)
 
