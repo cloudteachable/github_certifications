@@ -22,5 +22,3 @@ Base Reference  :https://resources.github.com/learn/certifications/
    Study Guide - https://assets.ctfassets.net/wfutmusr1t3h/4WQrNeENScZlISZKdknVbK/4c5d4a2174291da207efb57aa814899d/github-advanced-security-exam-preparation-study-guide__3_.pdf <br>
    Microsoft learn- https://learn.microsoft.com/en-us/collections/rqymc6yw8q5rey <br>
 
-
-Added text for testing
