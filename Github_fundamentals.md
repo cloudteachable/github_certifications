@@ -1,3 +1,5 @@
+**Important topics to revision for github fundamentals exam**
+
 - Alpha vs beta version in github
 - How to start the code spaces
 - Different kinds of charts - current charts vs historical charts
